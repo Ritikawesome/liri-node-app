@@ -1,0 +1,23 @@
+node liri.js concert-this nataliethis is loaded
+natalie
+Venue name Holland Performing Arts Center
+Venue location Omaha
+Date of Event 03/09/2019
+------------------------------------------
+Ritikas-MacBook-Pro:liri-node-app ritikapawar$ node liri.js spotify-this-song 'I want it that way'
+this is loaded
+I want it that way
+I Want It That Way
+Backstreet Boys
+----------------------------------------------------
+Ritikas-MacBook-Pro:liri-node-app ritikapawar$ node liri.js movie-this 'happy'
+this is loaded
+happy
+Title of the movie: Happy
+Year the movie came out: 2011
+IMDB Rating: 7.2
+Country where the movie was produced: USA
+Movie language: English
+Movie plot: HAPPY takes us on a journey from the swamps of Louisiana to the slums of Kolkata in search ofwhat really makes people happy. Combining real life stories of people from around the world and...
+Actors in the movie: Marci Shimoff, Ed Diener, Richard Davidson, Mihaly Csikszentmihalyi
+Ritikas-MacBook-Pro:liri-node-app ritikapawar$

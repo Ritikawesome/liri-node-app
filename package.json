@@ -1,0 +1,29 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ritikawesome/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ritikawesome/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Ritikawesome/liri-node-app#readme",
+  "dependencies": {
+    "bandsintown": "^1.0.1",
+    "chalk": "^2.4.1",
+    "dotenv": "^6.0.0",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7",
+    "save": "^2.3.2"
+  },
+  "devDependencies": {}
+}
